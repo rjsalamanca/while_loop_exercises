@@ -1,4 +1,4 @@
-triangleHeight = 4
+triangleHeight = int(input('Triangle Height: '))
 count = 0
 stars = '*'
 
