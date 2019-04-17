@@ -64,8 +64,8 @@ Print a Square
 Print a 5x5 square of * characters. Example output:
 
 $ python square.py
-*****
 ```
+*****
 *****
 *****
 *****
@@ -78,6 +78,7 @@ Print a NxN square of * characters. Prompt the user for N. Example output:
 
 $ python square2.py
 How big is the square? 10
+```
 **********
 **********
 **********
@@ -88,28 +89,33 @@ How big is the square? 10
 **********
 **********
 **********
-Print a Box
-Given a height and width, input by the user, print a box consisting of * characters as its border. Example session:
+```
 
 **Exercise Below is stored in loop_print_box.py**
+
+Print a Box
+Given a height and width, input by the user, print a box consisting of * characters as its border. Example session:
 
 $ python box.py
 Width? 6
 Height? 4
+```
 ******
 *    *
 *    *
 ******
+```
 
 **Exercise Below is stored in loop_triangle.py**
 
 Print a Triangle
 Print a triangle consisting of * characters like this:
-
+```
    *
   ***
  *****
 *******
+```
 
 **Exercise Below is stored in loop_triangle.py**
 
@@ -122,6 +128,7 @@ Multiplication Table
 Print the multiplication table for numbers from 1 up to 10. Example output:
 
 $ python multiplication_table.py
+```
 1 X 1 = 1
 1 X 2 = 2
 1 X 3 = 3
@@ -134,6 +141,7 @@ $ python multiplication_table.py
 10 X 8 = 80
 10 X 9 = 90
 10 X 10 = 100
+```
 
 **Exercise Below is stored in loop_banner.py**
 
@@ -142,9 +150,11 @@ Given a string, input by the user, print that string with a box around it. The b
 
 $ python banner.py
 Text? Welcome to DigitalCrafts
+```
 ****************************
 * Welcome to DigitalCrafts *
 ****************************
+```
 
 **Exercise Below is stored in loop_triangle_number_sequence.py**
 
