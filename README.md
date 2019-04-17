@@ -64,11 +64,11 @@ Print a Square
 Print a 5x5 square of * characters. Example output:
 
 $ python square.py
-*****
-*****
-*****
-*****
-*****
+#*****
+#*****
+#*****
+#*****
+#*****
 
 **Exercise Below is stored in loop_NxN_square.py**
 
