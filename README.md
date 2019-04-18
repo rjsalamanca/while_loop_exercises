@@ -224,3 +224,53 @@ Bonus: Factor a Number
 
 
 Given a number, print its factors. What are factors? https://www.khanacademy.org/math/pre-algebra/factors-multiples/divisibility-and-factors/v/finding-factors-of-a-number
+
+
+
+## Additional While Loop Exercises (Blast off)
+
+## Exercise Below is stored in blastoff.py
+
+Blastoff
+
+Similar to your 1 to 10 counter, write a program that counts down:
+```
+$ python blastoff.py
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+```
+## Exercise Below is stored in blastoff_2.py
+
+**Blastoff 2**
+
+Modify blastoff so that it prints a custom message once it gets to 0.
+
+## Exercise Below is stored in blastoff_3.py
+
+**Blastoff 3**
+
+Prompt the user for the number to start counting from.
+
+## Exercise Below is stored in blastoff_4.py
+
+**Blastoff 4**
+
+Now, make sure the user doesn't enter a number larger than 20
+
+## Exercise Below is stored in blastoff_5.py
+
+**Blastoff 5**
+
+Make blastoff wait one second before proceeding to the next number.
+Hint: check out the docs for the time module.
+
+ 
