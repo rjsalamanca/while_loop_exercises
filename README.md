@@ -227,7 +227,7 @@ Given a number, print its factors. What are factors? https://www.khanacademy.org
 
 
 
-## Additional While Loop Exercises (Blast off)
+# Additional While Loop Exercises (Blast off)
 
 ## Exercise Below is stored in blastoff.py
 
@@ -273,9 +273,9 @@ Now, make sure the user doesn't enter a number larger than 20
 Make blastoff wait one second before proceeding to the next number.
 Hint: check out the docs for the time module.
 
- ## Additional While Loop Exercises (Guess a Number)
+#Additional While Loop Exercises (Guess a Number)
 
- ## Exercise Below is stored in guess_the_number.py
+## Exercise Below is stored in guess_the_number.py
 
 **Step 1**
 
