@@ -7,8 +7,9 @@
 
 Using a while loop, print out the numbers between 1 and 10 inclusive, one on a line. Example output:
 
-$ python loop_1_to_10.py
 ```
+$ python loop_1_to_10.py
+
 1
 2
 3
@@ -28,8 +29,9 @@ $ python loop_1_to_10.py
 
 Same as the previous problem, except you will prompt the user for the number to start on and the number to end on. Example session:
 
-$ python loop_n_to_m.py
 ```
+$ python loop_n_to_m.py
+
 Start from: 2
 End on: 8
 2
@@ -48,8 +50,9 @@ End on: 8
 
 Print each odd number between 1 and 10 inclusive. Example output:
 
-$ python loop_odd_numbers.py
 ```
+$ python loop_odd_numbers.py
+
 1
 3
 5
@@ -65,8 +68,9 @@ Hint: you will need to use the modulus operator % to determine whether a number 
 
 Write a program that will prompt you for how many coins you want. Initially you have no coins. It will ask you if you want a coin? If you type "yes", it will give you one coin, and print out the current tally. If you type no, it will stop the program. Example run:
 
-$ python loop_coins_boolean.py
 ```
+$ python loop_coins_boolean.py
+
 You have 0 coins.
 Do you want another? yes
 You have 1 coins.
@@ -83,8 +87,9 @@ Bye
 
 Print a 5x5 square of * characters. Example output:
 
-$ python loop_5x5_square.py
 ```
+$ python loop_5x5_square.py
+
 *****
 *****
 *****
